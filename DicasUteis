@@ -14,7 +14,47 @@
   "DescricaoCurtaDicas_M": "Informações importantes para caminhadas em grupo ou sozinho.",
   "ImagemDicas_M": "https://i.ibb.co/8PrcJ2q/ecot.jpg",
   "LinkDicas_M": "http://www.bombeiros.mg.gov.br/dicas-de-seguranca/12-eco-turismo-.html"
+  },
+  {
+  "idDicas_M": 3,
+  "TituloDicas_M": "Período de chuvas",
+  "FonteDicas_M": "www.bombeiros.mg.gov.br",
+  "DescricaoCurtaDicas_M": "O que fazer em períodos chuvosos.",
+  "ImagemDicas_M": " ",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/dicas-de-seguranca/2-periodo-de-chuvas.html"
+  },
+   {
+  "idDicas_M": 4,
+  "TituloDicas_M": "Segurança nas estradas",
+  "FonteDicas_M": "www.bombeiros.mg.gov.br",
+  "DescricaoCurtaDicas_M": "Saiba os principais cuidados na hora de ir para uma aventura, as estradas!.",
+  "ImagemDicas_M": " ",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/20339.html"
+  },
+    {
+  "idDicas_M": 5,
+  "TituloDicas_M": "Segurança nas estradas",
+  "FonteDicas_M": "www.bombeiros.mg.gov.br",
+  "DescricaoCurtaDicas_M": "Saiba os principais cuidados na hora de ir para uma aventura, as estradas!.",
+  "ImagemDicas_M": " ",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/20339.html"
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
