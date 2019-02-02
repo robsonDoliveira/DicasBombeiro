@@ -33,32 +33,18 @@
   },
     {
   "idDicas_M": 5,
-  "TituloDicas_M": "Segurança nas estradas",
+  "TituloDicas_M": "Queimadas",
+  "FonteDicas_M": "www.bombeiros.mg.gov.br",
+  "DescricaoCurtaDicas_M": "A queimadura está entre os acidentes domésticos mais comuns e caracteriza-se por lesões nos tecidos que envolvem diversas camadas do corpo como a pele e suas camadas, cabelos, pelos, músculos e olhos entre outros.",
+  "ImagemDicas_M": "https://i.ibb.co/GctM3G0/queimadas.jpg",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/23076.html"
+  },
+   {
+  "idDicas_M": 6,
+  "TituloDicas_M": "Queimaduras",
   "FonteDicas_M": "www.bombeiros.mg.gov.br",
   "DescricaoCurtaDicas_M": "Saiba os principais cuidados na hora de ir para uma aventura, as estradas!.",
-  "ImagemDicas_M": " ",
-  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/20339.html"
+  "ImagemDicas_M": "https://i.ibb.co/YRRfqjT/queimaduras.jpg",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/27193.html"
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 ]
