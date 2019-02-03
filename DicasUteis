@@ -46,5 +46,49 @@
   "DescricaoCurtaDicas_M": "Saiba os principais cuidados na hora de ir para uma aventura, as estradas!.",
   "ImagemDicas_M": "https://i.ibb.co/YRRfqjT/queimaduras.jpg",
   "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/27193.html"
+  },
+  {
+  "idDicas_M": 7,
+  "TituloDicas_M": "Abelhas, Vespas ou Mrimbondos",
+  "FonteDicas_M": "www.bombeiros.mg.gov.br",
+  "DescricaoCurtaDicas_M": "O calor e a florada influenciam no surgimento de enxames itinerantes e aumento do número de insetos nas colmeias. O calor também deixa as abelhas, vespas ou marimbondos mais agitados e agressivos.",
+  "ImagemDicas_M": "https://i.ibb.co/9w0ghH8/Fotos-de-Abelha-15.jpg",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/30082.html"
+  },
+   {
+  "idDicas_M": 8,
+  "TituloDicas_M": "122 dicas nas trilhas",
+  "FonteDicas_M": "www.trilhaseaventuras.com.br",
+  "DescricaoCurtaDicas_M": "Guia com 122 dicas para a sua segurança nas trilhas.",
+  "ImagemDicas_M": "https://i.ibb.co/9w0ghH8/Fotos-de-Abelha-15.jpg",
+  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/component/content/article/30082.html"
+  },
+   {
+  "idDicas_M": 9,
+  "TituloDicas_M": "Segurança nas Trilhas",
+  "FonteDicas_M": "www.chicotrekking.com.br",
+  "DescricaoCurtaDicas_M": "A prática das atividades ligadas ao Montanhismo, como o trekking e acampamentos apresentam riscos diversos em graus e números.",
+  "ImagemDicas_M": "https://i.ibb.co/MpZTsmD/strilhas.jpg",
+  "LinkDicas_M": "https://www.chicotrekking.com.br/2015/04/dicas-de-seguranca-nas-trilhas.html"
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ]
